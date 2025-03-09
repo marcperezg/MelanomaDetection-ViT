@@ -29,7 +29,7 @@ Para más detalles, consulta el archivo [LICENSE](LICENSE).
 ## 📩 Contacto
 Si tienes dudas, mejoras o sugerencias, puedes crear un **Issue** en este repositorio o contactarme a través de:
 
-✉️ **Email:** [tuemail@example.com]  
-🐙 **GitHub:** [https://github.com/tu_usuario](https://github.com/tu_usuario)  
+✉️ **Email:** [marc.perez.guerrero@estudiantat.upc.edu]  
+🐙 **GitHub:** [https://github.com/marcperezg](https://github.com/marcperezg)  
 
 ---
